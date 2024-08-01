@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["rope","wall"],collisionMatrix:[[false,true],[true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/index.fire",orientation:"",jsList:[],bundleVers:{internal:"d0832",main:"d1cad"}};
